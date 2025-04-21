@@ -1,2 +1,4 @@
 requests
 tqdm
+pre-commit
+ruff
